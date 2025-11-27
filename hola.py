@@ -1,1 +1,2 @@
-mensaje = "Hola mundo desde rama del conflicto"
+mensaje = "Hola desde la rama main"
+print(mensaje)
