@@ -1,2 +1,1 @@
-mensaje = "Hola mundo"
-print(mensaje)
+mensaje = "Hola mundo desde rama del conflicto"
