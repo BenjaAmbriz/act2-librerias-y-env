@@ -1,2 +1,2 @@
-mensaje = "Hola desde la rama main"
+mensaje = "Conflicto ya resuelto "
 print(mensaje)
